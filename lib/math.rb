@@ -30,14 +30,5 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
-  i = 1 
-  
-  while i < num do
-    quotient  = num / i until
-    
-  quotient = i 
-end
-end
-  puts i 
-  i
+  Math.sqrt(num)
 end
