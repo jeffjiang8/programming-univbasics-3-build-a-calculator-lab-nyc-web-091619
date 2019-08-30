@@ -35,5 +35,6 @@ def square_root(num)
   do i += 1 until
   quotient = i 
 end
-  
+  puts i 
+  i
 end
