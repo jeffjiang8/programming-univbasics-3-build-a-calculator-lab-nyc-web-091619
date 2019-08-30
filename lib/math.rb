@@ -31,9 +31,12 @@ end
 
 def square_root(num)
   i = 1 
-  quotient  = num / i
-  do i += 1 until
+  
+  while i < num do
+    quotient  = num / i until
+    
   quotient = i 
+end
 end
   puts i 
   i
