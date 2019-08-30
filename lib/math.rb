@@ -30,5 +30,10 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
-
+  i = 1 
+  quotient  = num / i
+  do i += 1 until
+  quotient = i 
+end
+  
 end
